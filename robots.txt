@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shauryacoder22-asus.github.io/vishwakarma-tent-house/sitemap.xml
